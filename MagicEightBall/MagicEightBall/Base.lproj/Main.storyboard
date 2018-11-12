@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14313.18" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14283.14"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="MagicEightBall" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="MgH-bZ-3cX">
+                                <rect key="frame" x="16" y="597" width="343" height="70"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="70" id="xNJ-o7-Zyl"/>
+                                </constraints>
+                                <state key="normal" title="Shake it!"/>
+                                <connections>
+                                    <action selector="shakeButtonTapped:" destination="BYZ-38-t0r" eventType="touchUpInside" id="9Rd-FL-C8Q"/>
+                                </connections>
+                            </button>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Have a question?" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="BtY-h9-VBv">
+                                <rect key="frame" x="16" y="160" width="343" height="62"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="62" id="E0e-q9-meo"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="28"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="BtY-h9-VBv" firstAttribute="trailing" secondItem="MgH-bZ-3cX" secondAttribute="trailing" id="9Cb-JU-tXf"/>
+                            <constraint firstItem="MgH-bZ-3cX" firstAttribute="bottom" secondItem="6Tk-OE-BBY" secondAttribute="bottom" id="M4f-UE-xmg"/>
+                            <constraint firstItem="BtY-h9-VBv" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leadingMargin" id="MYG-3G-mDz"/>
+                            <constraint firstItem="BtY-h9-VBv" firstAttribute="leading" secondItem="MgH-bZ-3cX" secondAttribute="leading" id="UxO-q1-Csv"/>
+                            <constraint firstItem="BtY-h9-VBv" firstAttribute="trailing" secondItem="8bC-Xf-vdC" secondAttribute="trailingMargin" id="fgm-dj-3Jc"/>
+                            <constraint firstItem="BtY-h9-VBv" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="140" id="rmP-Ta-tMY"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                    </view>
+                    <connections>
+                        <outlet property="answerLabel" destination="BtY-h9-VBv" id="gC4-GS-bi3"/>
+                        <outlet property="shakeButton" destination="MgH-bZ-3cX" id="5K8-OT-ixI"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="136.80000000000001" y="132.68365817091455"/>
+        </scene>
+    </scenes>
+</document>

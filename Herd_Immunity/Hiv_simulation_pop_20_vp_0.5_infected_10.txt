@@ -1,0 +1,1 @@
+Pop_size: 20	Vacc%: 0.5	virus_name: Hiv	Mortality_Rate: 0.8	basic_repro_num: 0.3

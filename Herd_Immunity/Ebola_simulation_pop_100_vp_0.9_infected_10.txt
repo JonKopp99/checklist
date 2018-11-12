@@ -1,0 +1,1743 @@
+Pop_size: 100	Vacc%: 0.9	virus_name: Ebola	Mortality_Rate: 0.7	basic_repro_num: 0.25
+Time Step: 1 began.
+Person with ID:0 was not able to infect Person with ID:80 because they are vaccinated
+Person with ID:0 was not able to infect Person with ID:20 because they are vaccinated
+Person with ID:0 was not able to infect Person with ID:87 because they are vaccinated
+Person with ID:0 was not able to infect Person with ID:54 because they are vaccinated
+Person with ID:0 was not able to infect Person with ID:76 because they are vaccinated
+Person with ID:0 was not able to infect Person with ID:8 because they were sick to begin with :o
+Person with ID:0 was not able to infect Person with ID:49 because they are vaccinated
+Person with ID:0 was not able to infect Person with ID:48 because they are vaccinated
+Person with ID:0 was not able to infect Person with ID:76 because they are vaccinated
+Person with ID:0 was not able to infect Person with ID:59 because they are vaccinated
+Person with ID:0 was not able to infect Person with ID:67 because they are vaccinated
+Person with ID:0 was not able to infect Person with ID:32 because they are vaccinated
+Person with ID:0 was not able to infect Person with ID:70
+Person with ID:0 was not able to infect Person with ID:1 because they were sick to begin with :o
+Person with ID:0 was not able to infect Person with ID:87 because they are vaccinated
+Person with ID:0 was not able to infect Person with ID:92 because they are vaccinated
+Person with ID:0 was not able to infect Person with ID:14 because they are vaccinated
+Person with ID:0 was not able to infect Person with ID:87 because they are vaccinated
+Person with ID:0 was not able to infect Person with ID:68 because they are vaccinated
+Person with ID:0 was not able to infect Person with ID:96
+Person with ID:0 was not able to infect Person with ID:82 because they are vaccinated
+Person with ID:0 infected Person with ID:43
+Person with ID:0 was not able to infect Person with ID:55 because they are vaccinated
+Person with ID:0 was not able to infect Person with ID:20 because they are vaccinated
+Person with ID:0 was not able to infect Person with ID:58 because they are vaccinated
+Person with ID:0 was not able to infect Person with ID:0 because they were sick to begin with :o
+Person with ID:0 was not able to infect Person with ID:92 because they are vaccinated
+Person with ID:0 was not able to infect Person with ID:92 because they are vaccinated
+Person with ID:0 was not able to infect Person with ID:33 because they are vaccinated
+Person with ID:0 was not able to infect Person with ID:64 because they are vaccinated
+Person with ID:0 was not able to infect Person with ID:97 because they are vaccinated
+Person with ID:0 was not able to infect Person with ID:22 because they are vaccinated
+Person with ID:0 was not able to infect Person with ID:64 because they are vaccinated
+Person with ID:0 was not able to infect Person with ID:13 because they are vaccinated
+Person with ID:0 was not able to infect Person with ID:80 because they are vaccinated
+Person with ID:0 was not able to infect Person with ID:38 because they are vaccinated
+Person with ID:0 was not able to infect Person with ID:81
+Person with ID:0 was not able to infect Person with ID:25 because they are vaccinated
+Person with ID:0 was not able to infect Person with ID:19 because they are vaccinated
+Person with ID:0 was not able to infect Person with ID:47 because they are vaccinated
+Person with ID:0 was not able to infect Person with ID:97 because they are vaccinated
+Person with ID:0 was not able to infect Person with ID:20 because they are vaccinated
+Person with ID:0 was not able to infect Person with ID:69 because they are vaccinated
+Person with ID:0 was not able to infect Person with ID:99 because they are vaccinated
+Person with ID:0 was not able to infect Person with ID:67 because they are vaccinated
+Person with ID:0 was not able to infect Person with ID:0 because they were sick to begin with :o
+Person with ID:0 was not able to infect Person with ID:76 because they are vaccinated
+Person with ID:0 was not able to infect Person with ID:41 because they are vaccinated
+Person with ID:0 was not able to infect Person with ID:62 because they are vaccinated
+Person with ID:0 was not able to infect Person with ID:2 because they were sick to begin with :o
+Person with ID:0 was not able to infect Person with ID:14 because they are vaccinated
+Person with ID:0 was not able to infect Person with ID:46 because they are vaccinated
+Person with ID:0 was not able to infect Person with ID:39 because they are vaccinated
+Person with ID:0 was not able to infect Person with ID:30 because they are vaccinated
+Person with ID:0 was not able to infect Person with ID:7 because they were sick to begin with :o
+Person with ID:0 was not able to infect Person with ID:30 because they are vaccinated
+Person with ID:0 was not able to infect Person with ID:72 because they are vaccinated
+Person with ID:0 was not able to infect Person with ID:10 because they are vaccinated
+Person with ID:0 was not able to infect Person with ID:10 because they are vaccinated
+Person with ID:0 was not able to infect Person with ID:93 because they are vaccinated
+Person with ID:0 was not able to infect Person with ID:62 because they are vaccinated
+Person with ID:0 was not able to infect Person with ID:8 because they were sick to begin with :o
+Person with ID:0 was not able to infect Person with ID:97 because they are vaccinated
+Person with ID:0 was not able to infect Person with ID:68 because they are vaccinated
+Person with ID:0 was not able to infect Person with ID:98 because they are vaccinated
+Person with ID:0 was not able to infect Person with ID:16 because they are vaccinated
+Person with ID:0 was not able to infect Person with ID:16 because they are vaccinated
+Person with ID:0 was not able to infect Person with ID:84 because they are vaccinated
+Person with ID:0 was not able to infect Person with ID:60 because they are vaccinated
+Person with ID:0 infected Person with ID:70
+Person with ID:0 was not able to infect Person with ID:67 because they are vaccinated
+Person with ID:0 was not able to infect Person with ID:77 because they are vaccinated
+Person with ID:0 was not able to infect Person with ID:54 because they are vaccinated
+Person with ID:0 was not able to infect Person with ID:27 because they are vaccinated
+Person with ID:0 was not able to infect Person with ID:69 because they are vaccinated
+Person with ID:0 was not able to infect Person with ID:96
+Person with ID:0 was not able to infect Person with ID:25 because they are vaccinated
+Person with ID:0 was not able to infect Person with ID:91 because they are vaccinated
+Person with ID:0 was not able to infect Person with ID:39 because they are vaccinated
+Person with ID:0 was not able to infect Person with ID:51 because they are vaccinated
+Person with ID:0 was not able to infect Person with ID:85 because they are vaccinated
+Person with ID:0 was not able to infect Person with ID:83 because they are vaccinated
+Person with ID:0 was not able to infect Person with ID:47 because they are vaccinated
+Person with ID:0 was not able to infect Person with ID:56 because they are vaccinated
+Person with ID:0 was not able to infect Person with ID:66 because they are vaccinated
+Person with ID:0 was not able to infect Person with ID:57 because they are vaccinated
+Person with ID:0 was not able to infect Person with ID:15 because they are vaccinated
+Person with ID:0 was not able to infect Person with ID:31 because they are vaccinated
+Person with ID:0 was not able to infect Person with ID:28 because they are vaccinated
+Person with ID:0 was not able to infect Person with ID:8 because they were sick to begin with :o
+Person with ID:0 infected Person with ID:43
+Person with ID:0 infected Person with ID:70
+Person with ID:0 was not able to infect Person with ID:28 because they are vaccinated
+Person with ID:0 was not able to infect Person with ID:0 because they were sick to begin with :o
+Person with ID:0 was not able to infect Person with ID:9 because they were sick to begin with :o
+Person with ID:0 was not able to infect Person with ID:90 because they are vaccinated
+Person with ID:0 was not able to infect Person with ID:80 because they are vaccinated
+Person with ID:0 was not able to infect Person with ID:7 because they were sick to begin with :o
+Person with ID:0 was not able to infect Person with ID:29 because they are vaccinated
+Person with ID:0 was not able to infect Person with ID:8 because they were sick to begin with :o
+Person with ID:0 was not able to infect Person with ID:4 because they were sick to begin with :o
+Person with ID: 0 survived.
+Person with ID:1 was not able to infect Person with ID:9 because they were sick to begin with :o
+Person with ID:1 was not able to infect Person with ID:65 because they are vaccinated
+Person with ID:1 was not able to infect Person with ID:30 because they are vaccinated
+Person with ID:1 was not able to infect Person with ID:35 because they are vaccinated
+Person with ID:1 was not able to infect Person with ID:85 because they are vaccinated
+Person with ID:1 was not able to infect Person with ID:62 because they are vaccinated
+Person with ID:1 was not able to infect Person with ID:27 because they are vaccinated
+Person with ID:1 was not able to infect Person with ID:69 because they are vaccinated
+Person with ID:1 was not able to infect Person with ID:16 because they are vaccinated
+Person with ID:1 was not able to infect Person with ID:92 because they are vaccinated
+Person with ID:1 was not able to infect Person with ID:73 because they are vaccinated
+Person with ID:1 was not able to infect Person with ID:73 because they are vaccinated
+Person with ID:1 was not able to infect Person with ID:60 because they are vaccinated
+Person with ID:1 was not able to infect Person with ID:31 because they are vaccinated
+Person with ID:1 was not able to infect Person with ID:100 because they are vaccinated
+Person with ID:1 was not able to infect Person with ID:60 because they are vaccinated
+Person with ID:1 was not able to infect Person with ID:52 because they are vaccinated
+Person with ID:1 was not able to infect Person with ID:24 because they are vaccinated
+Person with ID:1 was not able to infect Person with ID:12 because they are vaccinated
+Person with ID:1 was not able to infect Person with ID:12 because they are vaccinated
+Person with ID:1 was not able to infect Person with ID:84 because they are vaccinated
+Person with ID:1 was not able to infect Person with ID:55 because they are vaccinated
+Person with ID:1 was not able to infect Person with ID:45 because they are vaccinated
+Person with ID:1 was not able to infect Person with ID:54 because they are vaccinated
+Person with ID:1 was not able to infect Person with ID:52 because they are vaccinated
+Person with ID:1 was not able to infect Person with ID:59 because they are vaccinated
+Person with ID:1 was not able to infect Person with ID:93 because they are vaccinated
+Person with ID:1 was not able to infect Person with ID:6 because they were sick to begin with :o
+Person with ID:1 was not able to infect Person with ID:86
+Person with ID:1 was not able to infect Person with ID:82 because they are vaccinated
+Person with ID:1 was not able to infect Person with ID:12 because they are vaccinated
+Person with ID:1 was not able to infect Person with ID:7 because they were sick to begin with :o
+Person with ID:1 was not able to infect Person with ID:51 because they are vaccinated
+Person with ID:1 was not able to infect Person with ID:93 because they are vaccinated
+Person with ID:1 was not able to infect Person with ID:43
+Person with ID:1 was not able to infect Person with ID:13 because they are vaccinated
+Person with ID:1 was not able to infect Person with ID:31 because they are vaccinated
+Person with ID:1 was not able to infect Person with ID:24 because they are vaccinated
+Person with ID:1 was not able to infect Person with ID:24 because they are vaccinated
+Person with ID:1 was not able to infect Person with ID:68 because they are vaccinated
+Person with ID:1 was not able to infect Person with ID:57 because they are vaccinated
+Person with ID:1 was not able to infect Person with ID:17 because they are vaccinated
+Person with ID:1 was not able to infect Person with ID:54 because they are vaccinated
+Person with ID:1 was not able to infect Person with ID:23 because they are vaccinated
+Person with ID:1 was not able to infect Person with ID:35 because they are vaccinated
+Person with ID:1 was not able to infect Person with ID:59 because they are vaccinated
+Person with ID:1 was not able to infect Person with ID:31 because they are vaccinated
+Person with ID:1 was not able to infect Person with ID:9 because they were sick to begin with :o
+Person with ID:1 was not able to infect Person with ID:56 because they are vaccinated
+Person with ID:1 infected Person with ID:70
+Person with ID:1 was not able to infect Person with ID:83 because they are vaccinated
+Person with ID:1 was not able to infect Person with ID:69 because they are vaccinated
+Person with ID:1 was not able to infect Person with ID:1 because they were sick to begin with :o
+Person with ID:1 was not able to infect Person with ID:11 because they are vaccinated
+Person with ID:1 was not able to infect Person with ID:96
+Person with ID:1 was not able to infect Person with ID:21 because they are vaccinated
+Person with ID:1 was not able to infect Person with ID:52 because they are vaccinated
+Person with ID:1 was not able to infect Person with ID:62 because they are vaccinated
+Person with ID:1 was not able to infect Person with ID:61 because they are vaccinated
+Person with ID:1 was not able to infect Person with ID:27 because they are vaccinated
+Person with ID:1 was not able to infect Person with ID:51 because they are vaccinated
+Person with ID:1 was not able to infect Person with ID:7 because they were sick to begin with :o
+Person with ID:1 was not able to infect Person with ID:21 because they are vaccinated
+Person with ID:1 was not able to infect Person with ID:48 because they are vaccinated
+Person with ID:1 was not able to infect Person with ID:0 because they are vaccinated
+Person with ID:1 was not able to infect Person with ID:49 because they are vaccinated
+Person with ID:1 was not able to infect Person with ID:33 because they are vaccinated
+Person with ID:1 was not able to infect Person with ID:100 because they are vaccinated
+Person with ID:1 was not able to infect Person with ID:100 because they are vaccinated
+Person with ID:1 was not able to infect Person with ID:58 because they are vaccinated
+Person with ID:1 was not able to infect Person with ID:36 because they are vaccinated
+Person with ID:1 was not able to infect Person with ID:54 because they are vaccinated
+Person with ID:1 was not able to infect Person with ID:89 because they are vaccinated
+Person with ID:1 was not able to infect Person with ID:93 because they are vaccinated
+Person with ID:1 was not able to infect Person with ID:100 because they are vaccinated
+Person with ID:1 was not able to infect Person with ID:71 because they are vaccinated
+Person with ID:1 was not able to infect Person with ID:84 because they are vaccinated
+Person with ID:1 was not able to infect Person with ID:91 because they are vaccinated
+Person with ID:1 was not able to infect Person with ID:62 because they are vaccinated
+Person with ID:1 was not able to infect Person with ID:19 because they are vaccinated
+Person with ID:1 was not able to infect Person with ID:24 because they are vaccinated
+Person with ID:1 was not able to infect Person with ID:37 because they are vaccinated
+Person with ID:1 was not able to infect Person with ID:27 because they are vaccinated
+Person with ID:1 was not able to infect Person with ID:7 because they were sick to begin with :o
+Person with ID:1 was not able to infect Person with ID:74 because they are vaccinated
+Person with ID:1 was not able to infect Person with ID:94 because they are vaccinated
+Person with ID:1 was not able to infect Person with ID:69 because they are vaccinated
+Person with ID:1 was not able to infect Person with ID:7 because they were sick to begin with :o
+Person with ID:1 was not able to infect Person with ID:95 because they are vaccinated
+Person with ID:1 was not able to infect Person with ID:40 because they are vaccinated
+Person with ID:1 was not able to infect Person with ID:7 because they were sick to begin with :o
+Person with ID:1 was not able to infect Person with ID:6 because they were sick to begin with :o
+Person with ID:1 was not able to infect Person with ID:74 because they are vaccinated
+Person with ID:1 was not able to infect Person with ID:61 because they are vaccinated
+Person with ID:1 was not able to infect Person with ID:64 because they are vaccinated
+Person with ID:1 was not able to infect Person with ID:67 because they are vaccinated
+Person with ID:1 was not able to infect Person with ID:20 because they are vaccinated
+Person with ID:1 was not able to infect Person with ID:7 because they were sick to begin with :o
+Person with ID:1 was not able to infect Person with ID:65 because they are vaccinated
+Person with ID:1 was not able to infect Person with ID:10 because they are vaccinated
+Person with ID:1 was not able to infect Person with ID:23 because they are vaccinated
+Person with ID: 1 dies.
+Person with ID:3 was not able to infect Person with ID:9 because they were sick to begin with :o
+Person with ID:3 was not able to infect Person with ID:87 because they are vaccinated
+Person with ID:3 was not able to infect Person with ID:31 because they are vaccinated
+Person with ID:3 was not able to infect Person with ID:52 because they are vaccinated
+Person with ID:3 was not able to infect Person with ID:16 because they are vaccinated
+Person with ID:3 was not able to infect Person with ID:73 because they are vaccinated
+Person with ID:3 was not able to infect Person with ID:32 because they are vaccinated
+Person with ID:3 was not able to infect Person with ID:75 because they are vaccinated
+Person with ID:3 was not able to infect Person with ID:77 because they are vaccinated
+Person with ID:3 was not able to infect Person with ID:6 because they were sick to begin with :o
+Person with ID:3 was not able to infect Person with ID:80 because they are vaccinated
+Person with ID:3 was not able to infect Person with ID:11 because they are vaccinated
+Person with ID:3 was not able to infect Person with ID:54 because they are vaccinated
+Person with ID:3 was not able to infect Person with ID:85 because they are vaccinated
+Person with ID:3 was not able to infect Person with ID:75 because they are vaccinated
+Person with ID:3 was not able to infect Person with ID:73 because they are vaccinated
+Person with ID:3 was not able to infect Person with ID:67 because they are vaccinated
+Person with ID:3 was not able to infect Person with ID:41 because they are vaccinated
+Person with ID:3 infected Person with ID:34
+Person with ID:3 was not able to infect Person with ID:92 because they are vaccinated
+Person with ID:3 was not able to infect Person with ID:41 because they are vaccinated
+Person with ID:3 was not able to infect Person with ID:31 because they are vaccinated
+Person with ID:3 was not able to infect Person with ID:34
+Person with ID:3 was not able to infect Person with ID:86
+Person with ID:3 was not able to infect Person with ID:59 because they are vaccinated
+Person with ID:3 was not able to infect Person with ID:41 because they are vaccinated
+Person with ID:3 was not able to infect Person with ID:97 because they are vaccinated
+Person with ID:3 was not able to infect Person with ID:10 because they are vaccinated
+Person with ID:3 was not able to infect Person with ID:2 because they were sick to begin with :o
+Person with ID:3 was not able to infect Person with ID:59 because they are vaccinated
+Person with ID:3 was not able to infect Person with ID:80 because they are vaccinated
+Person with ID:3 was not able to infect Person with ID:73 because they are vaccinated
+Person with ID:3 was not able to infect Person with ID:13 because they are vaccinated
+Person with ID:3 was not able to infect Person with ID:10 because they are vaccinated
+Person with ID:3 was not able to infect Person with ID:69 because they are vaccinated
+Person with ID:3 was not able to infect Person with ID:28 because they are vaccinated
+Person with ID:3 was not able to infect Person with ID:65 because they are vaccinated
+Person with ID:3 infected Person with ID:34
+Person with ID:3 was not able to infect Person with ID:45 because they are vaccinated
+Person with ID:3 was not able to infect Person with ID:9 because they were sick to begin with :o
+Person with ID:3 was not able to infect Person with ID:32 because they are vaccinated
+Person with ID:3 was not able to infect Person with ID:48 because they are vaccinated
+Person with ID:3 was not able to infect Person with ID:37 because they are vaccinated
+Person with ID:3 was not able to infect Person with ID:21 because they are vaccinated
+Person with ID:3 was not able to infect Person with ID:57 because they are vaccinated
+Person with ID:3 was not able to infect Person with ID:70
+Person with ID:3 was not able to infect Person with ID:79 because they are vaccinated
+Person with ID:3 was not able to infect Person with ID:84 because they are vaccinated
+Person with ID:3 was not able to infect Person with ID:68 because they are vaccinated
+Person with ID:3 was not able to infect Person with ID:2 because they were sick to begin with :o
+Person with ID:3 was not able to infect Person with ID:86
+Person with ID:3 was not able to infect Person with ID:39 because they are vaccinated
+Person with ID:3 was not able to infect Person with ID:85 because they are vaccinated
+Person with ID:3 was not able to infect Person with ID:14 because they are vaccinated
+Person with ID:3 was not able to infect Person with ID:18 because they are vaccinated
+Person with ID:3 infected Person with ID:34
+Person with ID:3 was not able to infect Person with ID:14 because they are vaccinated
+Person with ID:3 was not able to infect Person with ID:96
+Person with ID:3 was not able to infect Person with ID:35 because they are vaccinated
+Person with ID:3 was not able to infect Person with ID:37 because they are vaccinated
+Person with ID:3 was not able to infect Person with ID:78 because they are vaccinated
+Person with ID:3 was not able to infect Person with ID:27 because they are vaccinated
+Person with ID:3 was not able to infect Person with ID:92 because they are vaccinated
+Person with ID:3 was not able to infect Person with ID:44 because they are vaccinated
+Person with ID:3 was not able to infect Person with ID:27 because they are vaccinated
+Person with ID:3 was not able to infect Person with ID:88 because they are vaccinated
+Person with ID:3 was not able to infect Person with ID:82 because they are vaccinated
+Person with ID:3 was not able to infect Person with ID:34
+Person with ID:3 was not able to infect Person with ID:33 because they are vaccinated
+Person with ID:3 was not able to infect Person with ID:7 because they were sick to begin with :o
+Person with ID:3 was not able to infect Person with ID:12 because they are vaccinated
+Person with ID:3 was not able to infect Person with ID:82 because they are vaccinated
+Person with ID:3 was not able to infect Person with ID:55 because they are vaccinated
+Person with ID:3 was not able to infect Person with ID:36 because they are vaccinated
+Person with ID:3 was not able to infect Person with ID:6 because they were sick to begin with :o
+Person with ID:3 was not able to infect Person with ID:0 because they are vaccinated
+Person with ID:3 was not able to infect Person with ID:43
+Person with ID:3 was not able to infect Person with ID:82 because they are vaccinated
+Person with ID:3 infected Person with ID:34
+Person with ID:3 was not able to infect Person with ID:57 because they are vaccinated
+Person with ID:3 was not able to infect Person with ID:71 because they are vaccinated
+Person with ID:3 was not able to infect Person with ID:91 because they are vaccinated
+Person with ID:3 was not able to infect Person with ID:55 because they are vaccinated
+Person with ID:3 was not able to infect Person with ID:72 because they are vaccinated
+Person with ID:3 was not able to infect Person with ID:2 because they were sick to begin with :o
+Person with ID:3 was not able to infect Person with ID:15 because they are vaccinated
+Person with ID:3 was not able to infect Person with ID:10 because they are vaccinated
+Person with ID:3 was not able to infect Person with ID:89 because they are vaccinated
+Person with ID:3 was not able to infect Person with ID:20 because they are vaccinated
+Person with ID:3 infected Person with ID:70
+Person with ID:3 was not able to infect Person with ID:48 because they are vaccinated
+Person with ID:3 was not able to infect Person with ID:75 because they are vaccinated
+Person with ID:3 was not able to infect Person with ID:71 because they are vaccinated
+Person with ID:3 was not able to infect Person with ID:19 because they are vaccinated
+Person with ID:3 was not able to infect Person with ID:56 because they are vaccinated
+Person with ID:3 was not able to infect Person with ID:17 because they are vaccinated
+Person with ID:3 was not able to infect Person with ID:6 because they were sick to begin with :o
+Person with ID:3 was not able to infect Person with ID:40 because they are vaccinated
+Person with ID:3 was not able to infect Person with ID:47 because they are vaccinated
+Person with ID:3 was not able to infect Person with ID:6 because they were sick to begin with :o
+Person with ID:3 was not able to infect Person with ID:46 because they are vaccinated
+Person with ID: 3 dies.
+Person with ID:5 was not able to infect Person with ID:33 because they are vaccinated
+Person with ID:5 was not able to infect Person with ID:87 because they are vaccinated
+Person with ID:5 was not able to infect Person with ID:15 because they are vaccinated
+Person with ID:5 was not able to infect Person with ID:47 because they are vaccinated
+Person with ID:5 was not able to infect Person with ID:73 because they are vaccinated
+Person with ID:5 was not able to infect Person with ID:54 because they are vaccinated
+Person with ID:5 was not able to infect Person with ID:81
+Person with ID:5 was not able to infect Person with ID:32 because they are vaccinated
+Person with ID:5 was not able to infect Person with ID:22 because they are vaccinated
+Person with ID:5 was not able to infect Person with ID:24 because they are vaccinated
+Person with ID:5 was not able to infect Person with ID:54 because they are vaccinated
+Person with ID:5 was not able to infect Person with ID:5 because they were sick to begin with :o
+Person with ID:5 was not able to infect Person with ID:24 because they are vaccinated
+Person with ID:5 was not able to infect Person with ID:96
+Person with ID:5 was not able to infect Person with ID:54 because they are vaccinated
+Person with ID:5 was not able to infect Person with ID:87 because they are vaccinated
+Person with ID:5 was not able to infect Person with ID:96
+Person with ID:5 was not able to infect Person with ID:36 because they are vaccinated
+Person with ID:5 was not able to infect Person with ID:22 because they are vaccinated
+Person with ID:5 was not able to infect Person with ID:91 because they are vaccinated
+Person with ID:5 was not able to infect Person with ID:15 because they are vaccinated
+Person with ID:5 was not able to infect Person with ID:50 because they are vaccinated
+Person with ID:5 was not able to infect Person with ID:6 because they were sick to begin with :o
+Person with ID:5 was not able to infect Person with ID:62 because they are vaccinated
+Person with ID:5 was not able to infect Person with ID:30 because they are vaccinated
+Person with ID:5 was not able to infect Person with ID:27 because they are vaccinated
+Person with ID:5 was not able to infect Person with ID:60 because they are vaccinated
+Person with ID:5 was not able to infect Person with ID:46 because they are vaccinated
+Person with ID:5 was not able to infect Person with ID:41 because they are vaccinated
+Person with ID:5 was not able to infect Person with ID:31 because they are vaccinated
+Person with ID:5 was not able to infect Person with ID:30 because they are vaccinated
+Person with ID:5 was not able to infect Person with ID:5 because they were sick to begin with :o
+Person with ID:5 infected Person with ID:86
+Person with ID:5 was not able to infect Person with ID:44 because they are vaccinated
+Person with ID:5 was not able to infect Person with ID:37 because they are vaccinated
+Person with ID:5 was not able to infect Person with ID:10 because they are vaccinated
+Person with ID:5 was not able to infect Person with ID:100 because they are vaccinated
+Person with ID:5 was not able to infect Person with ID:37 because they are vaccinated
+Person with ID:5 was not able to infect Person with ID:46 because they are vaccinated
+Person with ID:5 was not able to infect Person with ID:84 because they are vaccinated
+Person with ID:5 was not able to infect Person with ID:67 because they are vaccinated
+Person with ID:5 was not able to infect Person with ID:53 because they are vaccinated
+Person with ID:5 was not able to infect Person with ID:88 because they are vaccinated
+Person with ID:5 was not able to infect Person with ID:70
+Person with ID:5 was not able to infect Person with ID:5 because they were sick to begin with :o
+Person with ID:5 was not able to infect Person with ID:16 because they are vaccinated
+Person with ID:5 was not able to infect Person with ID:35 because they are vaccinated
+Person with ID:5 was not able to infect Person with ID:24 because they are vaccinated
+Person with ID:5 was not able to infect Person with ID:76 because they are vaccinated
+Person with ID:5 was not able to infect Person with ID:35 because they are vaccinated
+Person with ID:5 was not able to infect Person with ID:6 because they were sick to begin with :o
+Person with ID:5 was not able to infect Person with ID:15 because they are vaccinated
+Person with ID:5 was not able to infect Person with ID:78 because they are vaccinated
+Person with ID:5 was not able to infect Person with ID:57 because they are vaccinated
+Person with ID:5 was not able to infect Person with ID:46 because they are vaccinated
+Person with ID:5 was not able to infect Person with ID:95 because they are vaccinated
+Person with ID:5 was not able to infect Person with ID:42 because they are vaccinated
+Person with ID:5 was not able to infect Person with ID:57 because they are vaccinated
+Person with ID:5 was not able to infect Person with ID:79 because they are vaccinated
+Person with ID:5 was not able to infect Person with ID:67 because they are vaccinated
+Person with ID:5 was not able to infect Person with ID:16 because they are vaccinated
+Person with ID:5 was not able to infect Person with ID:51 because they are vaccinated
+Person with ID:5 was not able to infect Person with ID:75 because they are vaccinated
+Person with ID:5 was not able to infect Person with ID:26 because they are vaccinated
+Person with ID:5 infected Person with ID:34
+Person with ID:5 was not able to infect Person with ID:57 because they are vaccinated
+Person with ID:5 was not able to infect Person with ID:0 because they are vaccinated
+Person with ID:5 was not able to infect Person with ID:68 because they are vaccinated
+Person with ID:5 was not able to infect Person with ID:70
+Person with ID:5 was not able to infect Person with ID:96
+Person with ID:5 was not able to infect Person with ID:27 because they are vaccinated
+Person with ID:5 was not able to infect Person with ID:48 because they are vaccinated
+Person with ID:5 was not able to infect Person with ID:57 because they are vaccinated
+Person with ID:5 was not able to infect Person with ID:10 because they are vaccinated
+Person with ID:5 was not able to infect Person with ID:87 because they are vaccinated
+Person with ID:5 was not able to infect Person with ID:44 because they are vaccinated
+Person with ID:5 was not able to infect Person with ID:81
+Person with ID:5 was not able to infect Person with ID:17 because they are vaccinated
+Person with ID:5 was not able to infect Person with ID:94 because they are vaccinated
+Person with ID:5 was not able to infect Person with ID:40 because they are vaccinated
+Person with ID:5 was not able to infect Person with ID:66 because they are vaccinated
+Person with ID:5 was not able to infect Person with ID:41 because they are vaccinated
+Person with ID:5 was not able to infect Person with ID:87 because they are vaccinated
+Person with ID:5 was not able to infect Person with ID:54 because they are vaccinated
+Person with ID:5 was not able to infect Person with ID:43
+Person with ID:5 was not able to infect Person with ID:39 because they are vaccinated
+Person with ID:5 was not able to infect Person with ID:72 because they are vaccinated
+Person with ID:5 was not able to infect Person with ID:18 because they are vaccinated
+Person with ID:5 was not able to infect Person with ID:26 because they are vaccinated
+Person with ID:5 was not able to infect Person with ID:55 because they are vaccinated
+Person with ID:5 was not able to infect Person with ID:87 because they are vaccinated
+Person with ID:5 was not able to infect Person with ID:50 because they are vaccinated
+Person with ID:5 was not able to infect Person with ID:88 because they are vaccinated
+Person with ID:5 was not able to infect Person with ID:97 because they are vaccinated
+Person with ID:5 was not able to infect Person with ID:24 because they are vaccinated
+Person with ID:5 was not able to infect Person with ID:80 because they are vaccinated
+Person with ID:5 was not able to infect Person with ID:74 because they are vaccinated
+Person with ID:5 was not able to infect Person with ID:40 because they are vaccinated
+Person with ID:5 was not able to infect Person with ID:53 because they are vaccinated
+Person with ID:5 was not able to infect Person with ID:72 because they are vaccinated
+Person with ID:5 was not able to infect Person with ID:0 because they are vaccinated
+Person with ID: 5 dies.
+Person with ID:7 was not able to infect Person with ID:29 because they are vaccinated
+Person with ID:7 was not able to infect Person with ID:58 because they are vaccinated
+Person with ID:7 was not able to infect Person with ID:77 because they are vaccinated
+Person with ID:7 was not able to infect Person with ID:80 because they are vaccinated
+Person with ID:7 was not able to infect Person with ID:86
+Person with ID:7 was not able to infect Person with ID:59 because they are vaccinated
+Person with ID:7 was not able to infect Person with ID:59 because they are vaccinated
+Person with ID:7 was not able to infect Person with ID:89 because they are vaccinated
+Person with ID:7 was not able to infect Person with ID:30 because they are vaccinated
+Person with ID:7 was not able to infect Person with ID:68 because they are vaccinated
+Person with ID:7 was not able to infect Person with ID:63
+Person with ID:7 was not able to infect Person with ID:97 because they are vaccinated
+Person with ID:7 was not able to infect Person with ID:24 because they are vaccinated
+Person with ID:7 was not able to infect Person with ID:87 because they are vaccinated
+Person with ID:7 was not able to infect Person with ID:13 because they are vaccinated
+Person with ID:7 was not able to infect Person with ID:39 because they are vaccinated
+Person with ID:7 was not able to infect Person with ID:68 because they are vaccinated
+Person with ID:7 was not able to infect Person with ID:87 because they are vaccinated
+Person with ID:7 was not able to infect Person with ID:84 because they are vaccinated
+Person with ID:7 was not able to infect Person with ID:82 because they are vaccinated
+Person with ID:7 was not able to infect Person with ID:45 because they are vaccinated
+Person with ID:7 was not able to infect Person with ID:14 because they are vaccinated
+Person with ID:7 was not able to infect Person with ID:99 because they are vaccinated
+Person with ID:7 was not able to infect Person with ID:33 because they are vaccinated
+Person with ID:7 was not able to infect Person with ID:89 because they are vaccinated
+Person with ID:7 was not able to infect Person with ID:42 because they are vaccinated
+Person with ID:7 was not able to infect Person with ID:31 because they are vaccinated
+Person with ID:7 was not able to infect Person with ID:28 because they are vaccinated
+Person with ID:7 was not able to infect Person with ID:21 because they are vaccinated
+Person with ID:7 was not able to infect Person with ID:6 because they were sick to begin with :o
+Person with ID:7 was not able to infect Person with ID:8 because they were sick to begin with :o
+Person with ID:7 was not able to infect Person with ID:34
+Person with ID:7 was not able to infect Person with ID:81
+Person with ID:7 was not able to infect Person with ID:12 because they are vaccinated
+Person with ID:7 was not able to infect Person with ID:61 because they are vaccinated
+Person with ID:7 was not able to infect Person with ID:56 because they are vaccinated
+Person with ID:7 was not able to infect Person with ID:83 because they are vaccinated
+Person with ID:7 was not able to infect Person with ID:76 because they are vaccinated
+Person with ID:7 was not able to infect Person with ID:27 because they are vaccinated
+Person with ID:7 was not able to infect Person with ID:94 because they are vaccinated
+Person with ID:7 was not able to infect Person with ID:92 because they are vaccinated
+Person with ID:7 was not able to infect Person with ID:52 because they are vaccinated
+Person with ID:7 was not able to infect Person with ID:66 because they are vaccinated
+Person with ID:7 was not able to infect Person with ID:54 because they are vaccinated
+Person with ID:7 infected Person with ID:34
+Person with ID:7 was not able to infect Person with ID:91 because they are vaccinated
+Person with ID:7 was not able to infect Person with ID:0 because they are vaccinated
+Person with ID:7 was not able to infect Person with ID:99 because they are vaccinated
+Person with ID:7 was not able to infect Person with ID:16 because they are vaccinated
+Person with ID:7 was not able to infect Person with ID:57 because they are vaccinated
+Person with ID:7 was not able to infect Person with ID:31 because they are vaccinated
+Person with ID:7 was not able to infect Person with ID:25 because they are vaccinated
+Person with ID:7 was not able to infect Person with ID:92 because they are vaccinated
+Person with ID:7 was not able to infect Person with ID:69 because they are vaccinated
+Person with ID:7 was not able to infect Person with ID:62 because they are vaccinated
+Person with ID:7 was not able to infect Person with ID:9 because they were sick to begin with :o
+Person with ID:7 was not able to infect Person with ID:74 because they are vaccinated
+Person with ID:7 was not able to infect Person with ID:34
+Person with ID:7 was not able to infect Person with ID:18 because they are vaccinated
+Person with ID:7 was not able to infect Person with ID:61 because they are vaccinated
+Person with ID:7 was not able to infect Person with ID:20 because they are vaccinated
+Person with ID:7 was not able to infect Person with ID:62 because they are vaccinated
+Person with ID:7 was not able to infect Person with ID:88 because they are vaccinated
+Person with ID:7 was not able to infect Person with ID:70
+Person with ID:7 was not able to infect Person with ID:79 because they are vaccinated
+Person with ID:7 was not able to infect Person with ID:43
+Person with ID:7 was not able to infect Person with ID:59 because they are vaccinated
+Person with ID:7 was not able to infect Person with ID:81
+Person with ID:7 was not able to infect Person with ID:67 because they are vaccinated
+Person with ID:7 was not able to infect Person with ID:57 because they are vaccinated
+Person with ID:7 was not able to infect Person with ID:73 because they are vaccinated
+Person with ID:7 was not able to infect Person with ID:60 because they are vaccinated
+Person with ID:7 was not able to infect Person with ID:23 because they are vaccinated
+Person with ID:7 was not able to infect Person with ID:98 because they are vaccinated
+Person with ID:7 was not able to infect Person with ID:63
+Person with ID:7 was not able to infect Person with ID:99 because they are vaccinated
+Person with ID:7 was not able to infect Person with ID:34
+Person with ID:7 was not able to infect Person with ID:38 because they are vaccinated
+Person with ID:7 was not able to infect Person with ID:69 because they are vaccinated
+Person with ID:7 was not able to infect Person with ID:65 because they are vaccinated
+Person with ID:7 was not able to infect Person with ID:83 because they are vaccinated
+Person with ID:7 was not able to infect Person with ID:33 because they are vaccinated
+Person with ID:7 was not able to infect Person with ID:38 because they are vaccinated
+Person with ID:7 was not able to infect Person with ID:59 because they are vaccinated
+Person with ID:7 was not able to infect Person with ID:12 because they are vaccinated
+Person with ID:7 was not able to infect Person with ID:94 because they are vaccinated
+Person with ID:7 was not able to infect Person with ID:39 because they are vaccinated
+Person with ID:7 was not able to infect Person with ID:33 because they are vaccinated
+Person with ID:7 was not able to infect Person with ID:37 because they are vaccinated
+Person with ID:7 was not able to infect Person with ID:45 because they are vaccinated
+Person with ID:7 was not able to infect Person with ID:43
+Person with ID:7 was not able to infect Person with ID:13 because they are vaccinated
+Person with ID:7 was not able to infect Person with ID:20 because they are vaccinated
+Person with ID:7 was not able to infect Person with ID:22 because they are vaccinated
+Person with ID:7 was not able to infect Person with ID:32 because they are vaccinated
+Person with ID:7 was not able to infect Person with ID:52 because they are vaccinated
+Person with ID:7 was not able to infect Person with ID:91 because they are vaccinated
+Person with ID:7 was not able to infect Person with ID:22 because they are vaccinated
+Person with ID:7 was not able to infect Person with ID:93 because they are vaccinated
+Person with ID:7 was not able to infect Person with ID:30 because they are vaccinated
+Person with ID:7 was not able to infect Person with ID:11 because they are vaccinated
+Person with ID: 7 dies.
+Person with ID:9 was not able to infect Person with ID:46 because they are vaccinated
+Person with ID:9 was not able to infect Person with ID:73 because they are vaccinated
+Person with ID:9 was not able to infect Person with ID:63
+Person with ID:9 was not able to infect Person with ID:30 because they are vaccinated
+Person with ID:9 was not able to infect Person with ID:57 because they are vaccinated
+Person with ID:9 was not able to infect Person with ID:53 because they are vaccinated
+Person with ID:9 was not able to infect Person with ID:78 because they are vaccinated
+Person with ID:9 was not able to infect Person with ID:93 because they are vaccinated
+Person with ID:9 was not able to infect Person with ID:4 because they were sick to begin with :o
+Person with ID:9 was not able to infect Person with ID:77 because they are vaccinated
+Person with ID:9 was not able to infect Person with ID:52 because they are vaccinated
+Person with ID:9 was not able to infect Person with ID:65 because they are vaccinated
+Person with ID:9 was not able to infect Person with ID:0 because they are vaccinated
+Person with ID:9 was not able to infect Person with ID:49 because they are vaccinated
+Person with ID:9 was not able to infect Person with ID:42 because they are vaccinated
+Person with ID:9 was not able to infect Person with ID:100 because they are vaccinated
+Person with ID:9 was not able to infect Person with ID:53 because they are vaccinated
+Person with ID:9 was not able to infect Person with ID:57 because they are vaccinated
+Person with ID:9 was not able to infect Person with ID:72 because they are vaccinated
+Person with ID:9 was not able to infect Person with ID:99 because they are vaccinated
+Person with ID:9 was not able to infect Person with ID:98 because they are vaccinated
+Person with ID:9 was not able to infect Person with ID:73 because they are vaccinated
+Person with ID:9 was not able to infect Person with ID:81
+Person with ID:9 was not able to infect Person with ID:66 because they are vaccinated
+Person with ID:9 was not able to infect Person with ID:32 because they are vaccinated
+Person with ID:9 was not able to infect Person with ID:38 because they are vaccinated
+Person with ID:9 was not able to infect Person with ID:59 because they are vaccinated
+Person with ID:9 was not able to infect Person with ID:66 because they are vaccinated
+Person with ID:9 was not able to infect Person with ID:6 because they were sick to begin with :o
+Person with ID:9 was not able to infect Person with ID:53 because they are vaccinated
+Person with ID:9 was not able to infect Person with ID:47 because they are vaccinated
+Person with ID:9 was not able to infect Person with ID:89 because they are vaccinated
+Person with ID:9 was not able to infect Person with ID:90 because they are vaccinated
+Person with ID:9 was not able to infect Person with ID:55 because they are vaccinated
+Person with ID:9 infected Person with ID:96
+Person with ID:9 was not able to infect Person with ID:63
+Person with ID:9 was not able to infect Person with ID:83 because they are vaccinated
+Person with ID:9 was not able to infect Person with ID:72 because they are vaccinated
+Person with ID:9 was not able to infect Person with ID:6 because they were sick to begin with :o
+Person with ID:9 was not able to infect Person with ID:54 because they are vaccinated
+Person with ID:9 was not able to infect Person with ID:79 because they are vaccinated
+Person with ID:9 was not able to infect Person with ID:76 because they are vaccinated
+Person with ID:9 was not able to infect Person with ID:88 because they are vaccinated
+Person with ID:9 was not able to infect Person with ID:6 because they were sick to begin with :o
+Person with ID:9 was not able to infect Person with ID:14 because they are vaccinated
+Person with ID:9 was not able to infect Person with ID:86
+Person with ID:9 infected Person with ID:63
+Person with ID:9 was not able to infect Person with ID:37 because they are vaccinated
+Person with ID:9 was not able to infect Person with ID:52 because they are vaccinated
+Person with ID:9 was not able to infect Person with ID:45 because they are vaccinated
+Person with ID:9 was not able to infect Person with ID:31 because they are vaccinated
+Person with ID:9 was not able to infect Person with ID:62 because they are vaccinated
+Person with ID:9 was not able to infect Person with ID:45 because they are vaccinated
+Person with ID:9 was not able to infect Person with ID:47 because they are vaccinated
+Person with ID:9 was not able to infect Person with ID:52 because they are vaccinated
+Person with ID:9 was not able to infect Person with ID:39 because they are vaccinated
+Person with ID:9 was not able to infect Person with ID:100 because they are vaccinated
+Person with ID:9 was not able to infect Person with ID:57 because they are vaccinated
+Person with ID:9 was not able to infect Person with ID:36 because they are vaccinated
+Person with ID:9 was not able to infect Person with ID:14 because they are vaccinated
+Person with ID:9 was not able to infect Person with ID:64 because they are vaccinated
+Person with ID:9 was not able to infect Person with ID:4 because they were sick to begin with :o
+Person with ID:9 was not able to infect Person with ID:99 because they are vaccinated
+Person with ID:9 was not able to infect Person with ID:73 because they are vaccinated
+Person with ID:9 was not able to infect Person with ID:10 because they are vaccinated
+Person with ID:9 was not able to infect Person with ID:48 because they are vaccinated
+Person with ID:9 was not able to infect Person with ID:32 because they are vaccinated
+Person with ID:9 was not able to infect Person with ID:87 because they are vaccinated
+Person with ID:9 was not able to infect Person with ID:12 because they are vaccinated
+Person with ID:9 was not able to infect Person with ID:87 because they are vaccinated
+Person with ID:9 was not able to infect Person with ID:9 because they were sick to begin with :o
+Person with ID:9 was not able to infect Person with ID:100 because they are vaccinated
+Person with ID:9 was not able to infect Person with ID:6 because they were sick to begin with :o
+Person with ID:9 was not able to infect Person with ID:35 because they are vaccinated
+Person with ID:9 was not able to infect Person with ID:29 because they are vaccinated
+Person with ID:9 was not able to infect Person with ID:4 because they were sick to begin with :o
+Person with ID:9 was not able to infect Person with ID:83 because they are vaccinated
+Person with ID:9 was not able to infect Person with ID:23 because they are vaccinated
+Person with ID:9 infected Person with ID:34
+Person with ID:9 was not able to infect Person with ID:89 because they are vaccinated
+Person with ID:9 was not able to infect Person with ID:18 because they are vaccinated
+Person with ID:9 was not able to infect Person with ID:76 because they are vaccinated
+Person with ID:9 was not able to infect Person with ID:31 because they are vaccinated
+Person with ID:9 was not able to infect Person with ID:63
+Person with ID:9 was not able to infect Person with ID:51 because they are vaccinated
+Person with ID:9 was not able to infect Person with ID:25 because they are vaccinated
+Person with ID:9 was not able to infect Person with ID:81
+Person with ID:9 was not able to infect Person with ID:99 because they are vaccinated
+Person with ID:9 was not able to infect Person with ID:95 because they are vaccinated
+Person with ID:9 was not able to infect Person with ID:18 because they are vaccinated
+Person with ID:9 was not able to infect Person with ID:24 because they are vaccinated
+Person with ID:9 infected Person with ID:43
+Person with ID:9 was not able to infect Person with ID:6 because they were sick to begin with :o
+Person with ID:9 was not able to infect Person with ID:43
+Person with ID:9 was not able to infect Person with ID:52 because they are vaccinated
+Person with ID:9 was not able to infect Person with ID:54 because they are vaccinated
+Person with ID:9 was not able to infect Person with ID:95 because they are vaccinated
+Person with ID:9 was not able to infect Person with ID:29 because they are vaccinated
+Person with ID:9 was not able to infect Person with ID:13 because they are vaccinated
+Person with ID:9 was not able to infect Person with ID:79 because they are vaccinated
+Person with ID:9 was not able to infect Person with ID:92 because they are vaccinated
+Person with ID: 9 survived.
+Time Step: 1 ended.
+Time Step: 2 began.
+Person with ID:2 was not able to infect Person with ID:35 because they are vaccinated
+Person with ID:2 was not able to infect Person with ID:17 because they are vaccinated
+Person with ID:2 was not able to infect Person with ID:93 because they are vaccinated
+Person with ID:2 was not able to infect Person with ID:42 because they are vaccinated
+Person with ID:2 was not able to infect Person with ID:91 because they are vaccinated
+Person with ID:2 was not able to infect Person with ID:80 because they are vaccinated
+Person with ID:2 was not able to infect Person with ID:19 because they are vaccinated
+Person with ID:2 was not able to infect Person with ID:76 because they are vaccinated
+Person with ID:2 was not able to infect Person with ID:9 because they are vaccinated
+Person with ID:2 was not able to infect Person with ID:48 because they are vaccinated
+Person with ID:2 was not able to infect Person with ID:72 because they are vaccinated
+Person with ID:2 was not able to infect Person with ID:58 because they are vaccinated
+Person with ID:2 was not able to infect Person with ID:88 because they are vaccinated
+Person with ID:2 was not able to infect Person with ID:51 because they are vaccinated
+Person with ID:2 was not able to infect Person with ID:12 because they are vaccinated
+Person with ID:2 was not able to infect Person with ID:68 because they are vaccinated
+Person with ID:2 was not able to infect Person with ID:86 because they were sick to begin with :o
+Person with ID:2 was not able to infect Person with ID:47 because they are vaccinated
+Person with ID:2 was not able to infect Person with ID:2 because they were sick to begin with :o
+Person with ID:2 was not able to infect Person with ID:57 because they are vaccinated
+Person with ID:2 was not able to infect Person with ID:66 because they are vaccinated
+Person with ID:2 was not able to infect Person with ID:17 because they are vaccinated
+Person with ID:2 was not able to infect Person with ID:59 because they are vaccinated
+Person with ID:2 was not able to infect Person with ID:50 because they are vaccinated
+Person with ID:2 was not able to infect Person with ID:85 because they are vaccinated
+Person with ID:2 was not able to infect Person with ID:62 because they are vaccinated
+Person with ID:2 was not able to infect Person with ID:94 because they are vaccinated
+Person with ID:2 was not able to infect Person with ID:23 because they are vaccinated
+Person with ID:2 was not able to infect Person with ID:59 because they are vaccinated
+Person with ID:2 was not able to infect Person with ID:26 because they are vaccinated
+Person with ID:2 was not able to infect Person with ID:97 because they are vaccinated
+Person with ID:2 was not able to infect Person with ID:70 because they were sick to begin with :o
+Person with ID:2 was not able to infect Person with ID:87 because they are vaccinated
+Person with ID:2 was not able to infect Person with ID:38 because they are vaccinated
+Person with ID:2 was not able to infect Person with ID:82 because they are vaccinated
+Person with ID:2 was not able to infect Person with ID:72 because they are vaccinated
+Person with ID:2 was not able to infect Person with ID:65 because they are vaccinated
+Person with ID:2 was not able to infect Person with ID:63 because they were sick to begin with :o
+Person with ID:2 was not able to infect Person with ID:59 because they are vaccinated
+Person with ID:2 was not able to infect Person with ID:97 because they are vaccinated
+Person with ID:2 was not able to infect Person with ID:79 because they are vaccinated
+Person with ID:2 was not able to infect Person with ID:38 because they are vaccinated
+Person with ID:2 was not able to infect Person with ID:45 because they are vaccinated
+Person with ID:2 was not able to infect Person with ID:35 because they are vaccinated
+Person with ID:2 was not able to infect Person with ID:15 because they are vaccinated
+Person with ID:2 was not able to infect Person with ID:39 because they are vaccinated
+Person with ID:2 was not able to infect Person with ID:61 because they are vaccinated
+Person with ID:2 was not able to infect Person with ID:35 because they are vaccinated
+Person with ID:2 was not able to infect Person with ID:100 because they are vaccinated
+Person with ID:2 was not able to infect Person with ID:63 because they were sick to begin with :o
+Person with ID:2 was not able to infect Person with ID:76 because they are vaccinated
+Person with ID:2 was not able to infect Person with ID:82 because they are vaccinated
+Person with ID:2 was not able to infect Person with ID:89 because they are vaccinated
+Person with ID:2 was not able to infect Person with ID:52 because they are vaccinated
+Person with ID:2 was not able to infect Person with ID:47 because they are vaccinated
+Person with ID:2 was not able to infect Person with ID:6 because they were sick to begin with :o
+Person with ID:2 was not able to infect Person with ID:67 because they are vaccinated
+Person with ID:2 was not able to infect Person with ID:45 because they are vaccinated
+Person with ID:2 was not able to infect Person with ID:27 because they are vaccinated
+Person with ID:2 was not able to infect Person with ID:66 because they are vaccinated
+Person with ID:2 was not able to infect Person with ID:31 because they are vaccinated
+Person with ID:2 was not able to infect Person with ID:49 because they are vaccinated
+Person with ID:2 was not able to infect Person with ID:37 because they are vaccinated
+Person with ID:2 was not able to infect Person with ID:47 because they are vaccinated
+Person with ID:2 was not able to infect Person with ID:39 because they are vaccinated
+Person with ID:2 was not able to infect Person with ID:80 because they are vaccinated
+Person with ID:2 was not able to infect Person with ID:93 because they are vaccinated
+Person with ID:2 was not able to infect Person with ID:39 because they are vaccinated
+Person with ID:2 was not able to infect Person with ID:75 because they are vaccinated
+Person with ID:2 was not able to infect Person with ID:2 because they were sick to begin with :o
+Person with ID:2 was not able to infect Person with ID:70 because they were sick to begin with :o
+Person with ID:2 was not able to infect Person with ID:28 because they are vaccinated
+Person with ID:2 was not able to infect Person with ID:14 because they are vaccinated
+Person with ID:2 was not able to infect Person with ID:34 because they were sick to begin with :o
+Person with ID:2 was not able to infect Person with ID:96 because they were sick to begin with :o
+Person with ID:2 was not able to infect Person with ID:56 because they are vaccinated
+Person with ID:2 was not able to infect Person with ID:66 because they are vaccinated
+Person with ID:2 was not able to infect Person with ID:75 because they are vaccinated
+Person with ID:2 was not able to infect Person with ID:34 because they were sick to begin with :o
+Person with ID:2 was not able to infect Person with ID:92 because they are vaccinated
+Person with ID:2 was not able to infect Person with ID:64 because they are vaccinated
+Person with ID:2 was not able to infect Person with ID:86 because they were sick to begin with :o
+Person with ID:2 was not able to infect Person with ID:95 because they are vaccinated
+Person with ID:2 was not able to infect Person with ID:66 because they are vaccinated
+Person with ID:2 was not able to infect Person with ID:61 because they are vaccinated
+Person with ID:2 was not able to infect Person with ID:4 because they were sick to begin with :o
+Person with ID:2 was not able to infect Person with ID:15 because they are vaccinated
+Person with ID:2 was not able to infect Person with ID:41 because they are vaccinated
+Person with ID:2 was not able to infect Person with ID:32 because they are vaccinated
+Person with ID:2 was not able to infect Person with ID:55 because they are vaccinated
+Person with ID:2 was not able to infect Person with ID:92 because they are vaccinated
+Person with ID:2 was not able to infect Person with ID:35 because they are vaccinated
+Person with ID:2 was not able to infect Person with ID:43 because they were sick to begin with :o
+Person with ID:2 was not able to infect Person with ID:88 because they are vaccinated
+Person with ID:2 was not able to infect Person with ID:78 because they are vaccinated
+Person with ID:2 was not able to infect Person with ID:51 because they are vaccinated
+Person with ID:2 was not able to infect Person with ID:64 because they are vaccinated
+Person with ID:2 was not able to infect Person with ID:74 because they are vaccinated
+Person with ID:2 was not able to infect Person with ID:71 because they are vaccinated
+Person with ID:2 was not able to infect Person with ID:48 because they are vaccinated
+Person with ID:2 was not able to infect Person with ID:58 because they are vaccinated
+Person with ID: 2 survived.
+Person with ID:4 was not able to infect Person with ID:74 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:46 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:49 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:93 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:62 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:38 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:43 because they were sick to begin with :o
+Person with ID:4 was not able to infect Person with ID:36 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:33 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:19 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:96 because they were sick to begin with :o
+Person with ID:4 was not able to infect Person with ID:28 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:44 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:19 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:99 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:72 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:92 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:27 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:28 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:31 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:98 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:65 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:39 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:96 because they were sick to begin with :o
+Person with ID:4 was not able to infect Person with ID:79 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:71 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:80 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:40 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:16 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:28 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:41 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:33 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:50 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:26 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:42 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:2 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:94 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:72 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:20 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:39 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:9 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:10 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:74 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:41 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:93 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:20 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:85 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:100 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:66 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:17 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:2 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:77 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:40 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:64 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:65 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:60 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:47 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:27 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:10 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:36 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:65 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:18 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:12 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:55 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:66 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:13 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:77 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:84 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:91 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:10 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:23 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:23 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:76 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:42 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:14 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:35 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:19 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:75 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:57 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:81
+Person with ID:4 was not able to infect Person with ID:83 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:32 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:70 because they were sick to begin with :o
+Person with ID:4 was not able to infect Person with ID:52 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:61 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:60 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:42 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:79 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:58 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:43 because they were sick to begin with :o
+Person with ID:4 was not able to infect Person with ID:76 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:83 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:11 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:82 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:98 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:16 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:30 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:84 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:31 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:37 because they are vaccinated
+Person with ID:4 was not able to infect Person with ID:88 because they are vaccinated
+Person with ID: 4 dies.
+Person with ID:8 was not able to infect Person with ID:35 because they are vaccinated
+Person with ID:8 was not able to infect Person with ID:27 because they are vaccinated
+Person with ID:8 was not able to infect Person with ID:75 because they are vaccinated
+Person with ID:8 was not able to infect Person with ID:14 because they are vaccinated
+Person with ID:8 was not able to infect Person with ID:25 because they are vaccinated
+Person with ID:8 was not able to infect Person with ID:0 because they are vaccinated
+Person with ID:8 was not able to infect Person with ID:57 because they are vaccinated
+Person with ID:8 was not able to infect Person with ID:62 because they are vaccinated
+Person with ID:8 was not able to infect Person with ID:93 because they are vaccinated
+Person with ID:8 was not able to infect Person with ID:81
+Person with ID:8 was not able to infect Person with ID:9 because they are vaccinated
+Person with ID:8 was not able to infect Person with ID:34 because they were sick to begin with :o
+Person with ID:8 was not able to infect Person with ID:41 because they are vaccinated
+Person with ID:8 was not able to infect Person with ID:95 because they are vaccinated
+Person with ID:8 was not able to infect Person with ID:41 because they are vaccinated
+Person with ID:8 was not able to infect Person with ID:94 because they are vaccinated
+Person with ID:8 was not able to infect Person with ID:63 because they were sick to begin with :o
+Person with ID:8 was not able to infect Person with ID:14 because they are vaccinated
+Person with ID:8 was not able to infect Person with ID:92 because they are vaccinated
+Person with ID:8 was not able to infect Person with ID:34 because they were sick to begin with :o
+Person with ID:8 was not able to infect Person with ID:38 because they are vaccinated
+Person with ID:8 was not able to infect Person with ID:85 because they are vaccinated
+Person with ID:8 was not able to infect Person with ID:80 because they are vaccinated
+Person with ID:8 was not able to infect Person with ID:89 because they are vaccinated
+Person with ID:8 was not able to infect Person with ID:30 because they are vaccinated
+Person with ID:8 was not able to infect Person with ID:59 because they are vaccinated
+Person with ID:8 was not able to infect Person with ID:19 because they are vaccinated
+Person with ID:8 was not able to infect Person with ID:74 because they are vaccinated
+Person with ID:8 was not able to infect Person with ID:33 because they are vaccinated
+Person with ID:8 was not able to infect Person with ID:87 because they are vaccinated
+Person with ID:8 was not able to infect Person with ID:24 because they are vaccinated
+Person with ID:8 was not able to infect Person with ID:39 because they are vaccinated
+Person with ID:8 was not able to infect Person with ID:23 because they are vaccinated
+Person with ID:8 was not able to infect Person with ID:14 because they are vaccinated
+Person with ID:8 was not able to infect Person with ID:12 because they are vaccinated
+Person with ID:8 was not able to infect Person with ID:26 because they are vaccinated
+Person with ID:8 was not able to infect Person with ID:44 because they are vaccinated
+Person with ID:8 was not able to infect Person with ID:81
+Person with ID:8 was not able to infect Person with ID:77 because they are vaccinated
+Person with ID:8 was not able to infect Person with ID:41 because they are vaccinated
+Person with ID:8 was not able to infect Person with ID:61 because they are vaccinated
+Person with ID:8 was not able to infect Person with ID:20 because they are vaccinated
+Person with ID:8 was not able to infect Person with ID:64 because they are vaccinated
+Person with ID:8 was not able to infect Person with ID:93 because they are vaccinated
+Person with ID:8 was not able to infect Person with ID:43 because they were sick to begin with :o
+Person with ID:8 was not able to infect Person with ID:94 because they are vaccinated
+Person with ID:8 was not able to infect Person with ID:56 because they are vaccinated
+Person with ID:8 was not able to infect Person with ID:39 because they are vaccinated
+Person with ID:8 was not able to infect Person with ID:69 because they are vaccinated
+Person with ID:8 was not able to infect Person with ID:74 because they are vaccinated
+Person with ID:8 was not able to infect Person with ID:68 because they are vaccinated
+Person with ID:8 was not able to infect Person with ID:61 because they are vaccinated
+Person with ID:8 was not able to infect Person with ID:15 because they are vaccinated
+Person with ID:8 infected Person with ID:81
+Person with ID:8 was not able to infect Person with ID:60 because they are vaccinated
+Person with ID:8 was not able to infect Person with ID:99 because they are vaccinated
+Person with ID:8 was not able to infect Person with ID:46 because they are vaccinated
+Person with ID:8 was not able to infect Person with ID:82 because they are vaccinated
+Person with ID:8 was not able to infect Person with ID:37 because they are vaccinated
+Person with ID:8 was not able to infect Person with ID:8 because they were sick to begin with :o
+Person with ID:8 was not able to infect Person with ID:16 because they are vaccinated
+Person with ID:8 was not able to infect Person with ID:34 because they were sick to begin with :o
+Person with ID:8 was not able to infect Person with ID:91 because they are vaccinated
+Person with ID:8 was not able to infect Person with ID:78 because they are vaccinated
+Person with ID:8 was not able to infect Person with ID:80 because they are vaccinated
+Person with ID:8 was not able to infect Person with ID:6 because they were sick to begin with :o
+Person with ID:8 was not able to infect Person with ID:91 because they are vaccinated
+Person with ID:8 was not able to infect Person with ID:39 because they are vaccinated
+Person with ID:8 was not able to infect Person with ID:78 because they are vaccinated
+Person with ID:8 was not able to infect Person with ID:10 because they are vaccinated
+Person with ID:8 was not able to infect Person with ID:27 because they are vaccinated
+Person with ID:8 was not able to infect Person with ID:65 because they are vaccinated
+Person with ID:8 was not able to infect Person with ID:71 because they are vaccinated
+Person with ID:8 was not able to infect Person with ID:88 because they are vaccinated
+Person with ID:8 was not able to infect Person with ID:61 because they are vaccinated
+Person with ID:8 was not able to infect Person with ID:40 because they are vaccinated
+Person with ID:8 was not able to infect Person with ID:28 because they are vaccinated
+Person with ID:8 was not able to infect Person with ID:79 because they are vaccinated
+Person with ID:8 was not able to infect Person with ID:60 because they are vaccinated
+Person with ID:8 was not able to infect Person with ID:86 because they were sick to begin with :o
+Person with ID:8 was not able to infect Person with ID:67 because they are vaccinated
+Person with ID:8 was not able to infect Person with ID:16 because they are vaccinated
+Person with ID:8 was not able to infect Person with ID:65 because they are vaccinated
+Person with ID:8 was not able to infect Person with ID:49 because they are vaccinated
+Person with ID:8 was not able to infect Person with ID:57 because they are vaccinated
+Person with ID:8 was not able to infect Person with ID:47 because they are vaccinated
+Person with ID:8 was not able to infect Person with ID:46 because they are vaccinated
+Person with ID:8 was not able to infect Person with ID:90 because they are vaccinated
+Person with ID:8 was not able to infect Person with ID:18 because they are vaccinated
+Person with ID:8 was not able to infect Person with ID:25 because they are vaccinated
+Person with ID:8 was not able to infect Person with ID:47 because they are vaccinated
+Person with ID:8 was not able to infect Person with ID:57 because they are vaccinated
+Person with ID:8 was not able to infect Person with ID:93 because they are vaccinated
+Person with ID:8 was not able to infect Person with ID:68 because they are vaccinated
+Person with ID:8 was not able to infect Person with ID:41 because they are vaccinated
+Person with ID:8 was not able to infect Person with ID:89 because they are vaccinated
+Person with ID:8 was not able to infect Person with ID:56 because they are vaccinated
+Person with ID:8 was not able to infect Person with ID:75 because they are vaccinated
+Person with ID:8 was not able to infect Person with ID:9 because they are vaccinated
+Person with ID:8 was not able to infect Person with ID:63 because they were sick to begin with :o
+Person with ID:8 was not able to infect Person with ID:16 because they are vaccinated
+Person with ID: 8 dies.
+Person with ID:34 was not able to infect Person with ID:47 because they are vaccinated
+Person with ID:34 was not able to infect Person with ID:20 because they are vaccinated
+Person with ID:34 was not able to infect Person with ID:57 because they are vaccinated
+Person with ID:34 was not able to infect Person with ID:71 because they are vaccinated
+Person with ID:34 was not able to infect Person with ID:0 because they are vaccinated
+Person with ID:34 was not able to infect Person with ID:90 because they are vaccinated
+Person with ID:34 was not able to infect Person with ID:75 because they are vaccinated
+Person with ID:34 was not able to infect Person with ID:65 because they are vaccinated
+Person with ID:34 was not able to infect Person with ID:58 because they are vaccinated
+Person with ID:34 was not able to infect Person with ID:12 because they are vaccinated
+Person with ID:34 was not able to infect Person with ID:30 because they are vaccinated
+Person with ID:34 was not able to infect Person with ID:72 because they are vaccinated
+Person with ID:34 was not able to infect Person with ID:52 because they are vaccinated
+Person with ID:34 was not able to infect Person with ID:85 because they are vaccinated
+Person with ID:34 was not able to infect Person with ID:69 because they are vaccinated
+Person with ID:34 was not able to infect Person with ID:86 because they were sick to begin with :o
+Person with ID:34 was not able to infect Person with ID:62 because they are vaccinated
+Person with ID:34 was not able to infect Person with ID:12 because they are vaccinated
+Person with ID:34 was not able to infect Person with ID:32 because they are vaccinated
+Person with ID:34 was not able to infect Person with ID:40 because they are vaccinated
+Person with ID:34 was not able to infect Person with ID:76 because they are vaccinated
+Person with ID:34 was not able to infect Person with ID:22 because they are vaccinated
+Person with ID:34 was not able to infect Person with ID:42 because they are vaccinated
+Person with ID:34 was not able to infect Person with ID:62 because they are vaccinated
+Person with ID:34 was not able to infect Person with ID:95 because they are vaccinated
+Person with ID:34 was not able to infect Person with ID:68 because they are vaccinated
+Person with ID:34 was not able to infect Person with ID:21 because they are vaccinated
+Person with ID:34 was not able to infect Person with ID:9 because they are vaccinated
+Person with ID:34 was not able to infect Person with ID:86 because they were sick to begin with :o
+Person with ID:34 was not able to infect Person with ID:83 because they are vaccinated
+Person with ID:34 was not able to infect Person with ID:36 because they are vaccinated
+Person with ID:34 was not able to infect Person with ID:96 because they were sick to begin with :o
+Person with ID:34 was not able to infect Person with ID:26 because they are vaccinated
+Person with ID:34 was not able to infect Person with ID:45 because they are vaccinated
+Person with ID:34 was not able to infect Person with ID:76 because they are vaccinated
+Person with ID:34 was not able to infect Person with ID:2 because they are vaccinated
+Person with ID:34 was not able to infect Person with ID:76 because they are vaccinated
+Person with ID:34 was not able to infect Person with ID:58 because they are vaccinated
+Person with ID:34 was not able to infect Person with ID:17 because they are vaccinated
+Person with ID:34 was not able to infect Person with ID:34 because they were sick to begin with :o
+Person with ID:34 was not able to infect Person with ID:20 because they are vaccinated
+Person with ID:34 was not able to infect Person with ID:65 because they are vaccinated
+Person with ID:34 was not able to infect Person with ID:21 because they are vaccinated
+Person with ID:34 was not able to infect Person with ID:88 because they are vaccinated
+Person with ID:34 was not able to infect Person with ID:25 because they are vaccinated
+Person with ID:34 was not able to infect Person with ID:69 because they are vaccinated
+Person with ID:34 was not able to infect Person with ID:97 because they are vaccinated
+Person with ID:34 was not able to infect Person with ID:43 because they were sick to begin with :o
+Person with ID:34 was not able to infect Person with ID:71 because they are vaccinated
+Person with ID:34 was not able to infect Person with ID:96 because they were sick to begin with :o
+Person with ID:34 was not able to infect Person with ID:40 because they are vaccinated
+Person with ID:34 was not able to infect Person with ID:59 because they are vaccinated
+Person with ID:34 was not able to infect Person with ID:67 because they are vaccinated
+Person with ID:34 was not able to infect Person with ID:66 because they are vaccinated
+Person with ID:34 was not able to infect Person with ID:37 because they are vaccinated
+Person with ID:34 was not able to infect Person with ID:64 because they are vaccinated
+Person with ID:34 was not able to infect Person with ID:76 because they are vaccinated
+Person with ID:34 was not able to infect Person with ID:24 because they are vaccinated
+Person with ID:34 was not able to infect Person with ID:55 because they are vaccinated
+Person with ID:34 was not able to infect Person with ID:30 because they are vaccinated
+Person with ID:34 was not able to infect Person with ID:82 because they are vaccinated
+Person with ID:34 was not able to infect Person with ID:71 because they are vaccinated
+Person with ID:34 was not able to infect Person with ID:23 because they are vaccinated
+Person with ID:34 was not able to infect Person with ID:14 because they are vaccinated
+Person with ID:34 was not able to infect Person with ID:41 because they are vaccinated
+Person with ID:34 was not able to infect Person with ID:59 because they are vaccinated
+Person with ID:34 was not able to infect Person with ID:49 because they are vaccinated
+Person with ID:34 was not able to infect Person with ID:70 because they were sick to begin with :o
+Person with ID:34 was not able to infect Person with ID:40 because they are vaccinated
+Person with ID:34 was not able to infect Person with ID:0 because they are vaccinated
+Person with ID:34 was not able to infect Person with ID:42 because they are vaccinated
+Person with ID:34 was not able to infect Person with ID:98 because they are vaccinated
+Person with ID:34 was not able to infect Person with ID:44 because they are vaccinated
+Person with ID:34 was not able to infect Person with ID:81
+Person with ID:34 was not able to infect Person with ID:90 because they are vaccinated
+Person with ID:34 was not able to infect Person with ID:68 because they are vaccinated
+Person with ID:34 was not able to infect Person with ID:25 because they are vaccinated
+Person with ID:34 was not able to infect Person with ID:63 because they were sick to begin with :o
+Person with ID:34 was not able to infect Person with ID:74 because they are vaccinated
+Person with ID:34 was not able to infect Person with ID:67 because they are vaccinated
+Person with ID:34 was not able to infect Person with ID:50 because they are vaccinated
+Person with ID:34 was not able to infect Person with ID:48 because they are vaccinated
+Person with ID:34 was not able to infect Person with ID:76 because they are vaccinated
+Person with ID:34 was not able to infect Person with ID:75 because they are vaccinated
+Person with ID:34 was not able to infect Person with ID:54 because they are vaccinated
+Person with ID:34 was not able to infect Person with ID:64 because they are vaccinated
+Person with ID:34 was not able to infect Person with ID:47 because they are vaccinated
+Person with ID:34 was not able to infect Person with ID:30 because they are vaccinated
+Person with ID:34 was not able to infect Person with ID:95 because they are vaccinated
+Person with ID:34 was not able to infect Person with ID:36 because they are vaccinated
+Person with ID:34 was not able to infect Person with ID:79 because they are vaccinated
+Person with ID:34 was not able to infect Person with ID:55 because they are vaccinated
+Person with ID:34 was not able to infect Person with ID:35 because they are vaccinated
+Person with ID:34 was not able to infect Person with ID:58 because they are vaccinated
+Person with ID:34 was not able to infect Person with ID:11 because they are vaccinated
+Person with ID:34 was not able to infect Person with ID:46 because they are vaccinated
+Person with ID:34 was not able to infect Person with ID:66 because they are vaccinated
+Person with ID:34 was not able to infect Person with ID:96 because they were sick to begin with :o
+Person with ID:34 was not able to infect Person with ID:54 because they are vaccinated
+Person with ID:34 was not able to infect Person with ID:55 because they are vaccinated
+Person with ID:34 was not able to infect Person with ID:90 because they are vaccinated
+Person with ID: 34 survived.
+Person with ID:43 was not able to infect Person with ID:89 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:25 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:69 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:10 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:22 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:70 because they were sick to begin with :o
+Person with ID:43 was not able to infect Person with ID:81
+Person with ID:43 was not able to infect Person with ID:18 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:62 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:18 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:73 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:64 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:2 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:98 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:24 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:58 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:89 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:25 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:15 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:66 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:39 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:49 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:85 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:94 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:56 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:89 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:16 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:48 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:92 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:74 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:54 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:46 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:86 because they were sick to begin with :o
+Person with ID:43 was not able to infect Person with ID:97 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:68 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:75 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:10 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:85 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:14 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:36 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:86 because they were sick to begin with :o
+Person with ID:43 was not able to infect Person with ID:93 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:42 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:35 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:17 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:61 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:18 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:87 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:96 because they were sick to begin with :o
+Person with ID:43 was not able to infect Person with ID:18 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:62 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:27 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:94 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:44 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:9 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:11 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:47 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:13 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:43 because they were sick to begin with :o
+Person with ID:43 was not able to infect Person with ID:51 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:53 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:61 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:24 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:37 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:73 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:58 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:78 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:93 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:29 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:27 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:28 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:16 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:84 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:54 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:85 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:93 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:36 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:69 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:80 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:24 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:35 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:65 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:87 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:38 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:64 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:38 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:91 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:2 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:65 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:42 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:92 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:75 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:26 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:15 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:62 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:50 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:81
+Person with ID:43 was not able to infect Person with ID:60 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:94 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:38 because they are vaccinated
+Person with ID:43 was not able to infect Person with ID:64 because they are vaccinated
+Person with ID: 43 survived.
+Person with ID:63 was not able to infect Person with ID:31 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:55 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:67 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:19 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:36 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:54 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:79 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:51 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:79 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:43 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:95 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:43 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:6 because they were sick to begin with :o
+Person with ID:63 was not able to infect Person with ID:90 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:56 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:41 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:2 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:78 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:93 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:12 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:83 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:69 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:42 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:35 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:83 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:51 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:34 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:87 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:30 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:85 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:38 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:92 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:98 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:90 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:93 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:23 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:86 because they were sick to begin with :o
+Person with ID:63 was not able to infect Person with ID:18 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:86 because they were sick to begin with :o
+Person with ID:63 was not able to infect Person with ID:88 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:11 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:45 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:62 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:10 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:80 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:52 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:99 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:22 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:17 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:43 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:47 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:59 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:28 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:31 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:22 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:75 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:52 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:73 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:70 because they were sick to begin with :o
+Person with ID:63 was not able to infect Person with ID:40 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:27 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:38 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:67 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:43 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:49 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:20 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:65 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:15 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:24 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:34 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:92 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:98 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:92 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:56 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:77 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:52 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:17 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:56 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:2 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:39 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:74 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:21 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:64 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:53 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:92 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:92 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:39 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:80 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:54 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:87 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:53 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:19 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:92 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:35 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:66 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:9 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:85 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:77 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:47 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:84 because they are vaccinated
+Person with ID:63 was not able to infect Person with ID:34 because they are vaccinated
+Person with ID: 63 dies.
+Person with ID:70 was not able to infect Person with ID:88 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:66 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:96 because they were sick to begin with :o
+Person with ID:70 was not able to infect Person with ID:44 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:90 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:58 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:20 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:23 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:11 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:10 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:44 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:70 because they were sick to begin with :o
+Person with ID:70 was not able to infect Person with ID:20 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:18 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:36 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:75 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:23 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:55 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:65 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:53 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:92 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:96 because they were sick to begin with :o
+Person with ID:70 was not able to infect Person with ID:76 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:59 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:82 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:100 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:25 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:59 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:90 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:18 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:69 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:85 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:58 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:41 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:10 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:95 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:53 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:33 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:62 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:62 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:36 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:52 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:18 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:94 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:53 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:76 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:89 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:51 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:13 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:56 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:41 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:30 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:21 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:65 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:17 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:91 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:33 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:89 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:88 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:83 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:6 because they were sick to begin with :o
+Person with ID:70 was not able to infect Person with ID:12 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:48 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:37 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:22 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:79 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:32 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:14 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:77 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:32 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:82 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:33 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:35 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:48 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:24 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:83 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:0 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:41 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:24 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:22 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:76 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:38 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:28 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:20 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:91 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:9 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:22 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:2 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:51 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:36 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:82 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:47 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:6 because they were sick to begin with :o
+Person with ID:70 was not able to infect Person with ID:28 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:39 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:12 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:22 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:59 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:74 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:20 because they are vaccinated
+Person with ID:70 was not able to infect Person with ID:14 because they are vaccinated
+Person with ID: 70 dies.
+Person with ID:86 was not able to infect Person with ID:52 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:73 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:83 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:19 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:64 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:72 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:34 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:86 because they were sick to begin with :o
+Person with ID:86 was not able to infect Person with ID:11 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:92 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:74 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:44 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:65 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:90 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:9 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:13 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:68 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:57 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:60 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:95 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:19 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:69 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:99 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:62 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:15 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:16 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:47 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:85 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:24 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:14 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:22 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:41 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:87 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:89 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:82 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:78 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:99 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:47 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:54 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:84 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:75 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:43 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:65 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:72 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:85 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:61 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:18 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:97 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:20 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:91 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:91 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:78 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:100 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:33 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:61 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:64 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:35 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:58 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:49 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:65 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:57 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:59 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:18 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:46 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:60 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:46 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:93 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:38 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:53 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:25 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:95 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:67 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:14 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:17 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:16 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:17 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:61 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:18 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:53 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:22 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:79 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:13 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:83 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:79 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:79 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:48 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:93 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:21 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:58 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:51 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:93 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:60 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:100 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:12 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:42 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:84 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:45 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:51 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:19 because they are vaccinated
+Person with ID:86 was not able to infect Person with ID:81
+Person with ID:86 was not able to infect Person with ID:25 because they are vaccinated
+Person with ID: 86 dies.
+Person with ID:96 was not able to infect Person with ID:34 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:19 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:50 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:79 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:53 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:20 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:41 because they are vaccinated
+Person with ID:96 infected Person with ID:81
+Person with ID:96 was not able to infect Person with ID:60 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:79 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:88 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:87 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:95 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:91 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:79 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:9 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:85 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:93 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:97 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:40 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:9 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:29 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:40 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:98 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:45 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:49 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:50 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:0 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:29 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:24 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:80 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:93 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:57 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:14 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:24 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:90 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:9 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:17 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:75 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:33 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:54 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:59 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:65 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:49 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:26 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:53 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:45 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:47 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:80 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:84 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:16 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:12 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:25 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:26 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:88 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:12 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:95 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:16 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:40 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:62 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:93 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:60 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:69 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:85 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:62 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:59 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:40 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:33 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:73 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:20 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:50 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:61 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:20 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:42 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:95 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:95 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:83 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:69 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:75 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:94 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:45 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:11 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:34 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:56 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:84 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:13 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:0 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:32 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:44 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:33 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:23 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:38 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:43 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:47 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:21 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:0 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:71 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:61 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:28 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:22 because they are vaccinated
+Person with ID:96 was not able to infect Person with ID:54 because they are vaccinated
+Person with ID: 96 dies.
+Time Step: 2 ended.
+Time Step: 3 began.
+Person with ID:6 was not able to infect Person with ID:35 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:72 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:79 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:94 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:51 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:15 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:56 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:11 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:61 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:6 because they were sick to begin with :o
+Person with ID:6 was not able to infect Person with ID:65 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:15 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:46 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:81 because they were sick to begin with :o
+Person with ID:6 was not able to infect Person with ID:60 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:81 because they were sick to begin with :o
+Person with ID:6 was not able to infect Person with ID:57 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:100 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:90 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:59 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:43 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:20 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:57 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:6 because they were sick to begin with :o
+Person with ID:6 was not able to infect Person with ID:47 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:27 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:88 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:65 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:98 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:52 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:17 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:61 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:19 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:37 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:61 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:83 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:57 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:75 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:16 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:56 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:45 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:49 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:34 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:48 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:27 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:15 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:73 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:90 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:20 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:75 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:73 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:30 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:50 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:50 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:91 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:24 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:36 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:19 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:24 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:38 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:31 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:28 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:85 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:25 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:92 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:15 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:28 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:89 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:71 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:66 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:80 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:82 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:64 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:97 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:80 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:91 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:90 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:88 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:47 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:89 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:46 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:25 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:62 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:14 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:67 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:62 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:89 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:44 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:41 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:83 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:13 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:51 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:72 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:15 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:45 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:66 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:64 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:10 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:13 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:53 because they are vaccinated
+Person with ID:6 was not able to infect Person with ID:42 because they are vaccinated
+Person with ID: 6 dies.
+Person with ID:81 was not able to infect Person with ID:18 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:88 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:85 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:73 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:56 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:67 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:83 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:79 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:12 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:65 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:82 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:93 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:31 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:48 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:87 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:68 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:73 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:26 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:14 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:65 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:20 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:50 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:17 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:73 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:92 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:29 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:12 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:38 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:64 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:64 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:76 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:75 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:88 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:27 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:53 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:54 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:43 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:56 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:59 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:50 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:97 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:85 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:13 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:90 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:92 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:49 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:15 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:49 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:19 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:80 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:97 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:56 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:43 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:39 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:94 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:87 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:26 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:49 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:17 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:83 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:94 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:25 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:51 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:46 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:93 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:100 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:94 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:57 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:23 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:85 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:17 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:46 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:80 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:55 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:92 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:49 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:23 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:95 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:100 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:98 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:76 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:18 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:92 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:95 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:61 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:74 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:53 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:9 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:53 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:46 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:30 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:34 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:50 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:71 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:31 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:35 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:24 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:26 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:16 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:44 because they are vaccinated
+Person with ID:81 was not able to infect Person with ID:19 because they are vaccinated
+Person with ID: 81 dies.
+Time Step: 3 ended.
+
+Dead: 12 Population still alive: 89 Total Infected through simulation: 17

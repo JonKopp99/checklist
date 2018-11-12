@@ -1,0 +1,16 @@
+[
+  "SuperHero/battle_test.py::test_armor",
+  "SuperHero/battle_test.py::test_hero_default_health",
+  "SuperHero/battle_test.py::test_hero_init_new_health",
+  "SuperHero/battle_test.py::test_hero_start_health",
+  "SuperHero/battle_test.py::test_hero_defense",
+  "SuperHero/battle_test.py::test_dead_hero_defense",
+  "SuperHero/battle_test.py::test_hero_equip_armor",
+  "SuperHero/battle_test.py::test_hero_defend_multi_armor",
+  "SuperHero/battle_test.py::test_hero_attack",
+  "SuperHero/battle_test.py::test_team_attack",
+  "SuperHero/battle_test.py::test_team_attack_kills",
+  "SuperHero/battle_test.py::test_team_attack_deaths",
+  "SuperHero/battle_test.py::test_team_defend",
+  "SuperHero/battle_test.py::test_revive_heroes"
+]
